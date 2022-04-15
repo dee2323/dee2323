@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>About me</h1>
-👋I am Deema Saleem
-💻 I am currently focusing on learning backend 
-😎 fun fact: Somtime I Love to code 24/7
+👋I am Deema Saleem<br/>
+💻 I am currently focusing on learning backend <br/>
+😎 fun fact: Somtime I Love to code 24/7<br/>
 <br/>
-<h2 align="center">Quick overview 📈</h2>
+<h2 align="center">Quick overview 📈</h2><br/><br/>
 <p align ="center"></p>
 
 <p align ="center">
