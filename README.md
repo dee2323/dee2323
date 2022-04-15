@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/dee2323/count.svg"></img>
 </div>
 
-<br /><br />
+<br /><br >
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
   <a href = "mailto:deemasa2323@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
