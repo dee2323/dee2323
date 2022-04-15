@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **dee2323/dee2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>About me</h1>
-👋I am Deema Saleem<br/>
-💻 I am currently focusing on learning backend <br/>
-😎 fun fact: Somtime I Love to code 24/7<br/>
-<br/>
-<h2 align="center">Quick overview 📈</h2><br/><br/>
-<p align ="center"></p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
-<p align ="center">
+
+<h1>About Me 📌</h1>
+
+- 👋 I am Deema Saleem
+- 💻 I am a Computer System Engineer at PTUK
+- 🌱 I am currently focusing on learning backend
+- ⚡ Fun fact: Sometimes I LOVE to code 24/7
+<br />
+<br/>
+
+
+<h2 align="center">Quick Overview 📈</h2>
+  
+  <p align = "center">
+ 
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=dee2323&count_private=true&theme=dracula&hide_border=true" alt = "dee2323's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=dee2323&count_private=true&theme=dracula&hide_border=true" alt = "dee2323's Rating" width = 400 >
 
 </p>
+
+<p align = "center">
+
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=dee2323&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "dee2323's Languages/Frameworks" width = 400 />
+</p>
+
+
+<br />
+<h2 align="center">Visitors 👀</h2>
+<div align="center" >
+  <img src="https://profile-counter.glitch.me/dee2323/count.svg"></img>
+</div>
+
+<br /><br />
+<h2 align="center">Let's Connect 😎</h2>
+<p align="center">
+  <a href = "mailto:deemasa2323@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "https://www.linkedin.com/in/deema-saleem-930604200"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+ 
+</p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
