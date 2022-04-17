@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Deema Saleem
-- 💻 I am a Computer System Engineer at PTUK
+- 💻 I am a Computer System Engineer student at PTUK
+- 😎 Very good in Software Programming : C++, OOP, Data Structure, Algorithms, Python, Design Patterns.
 - 🌱 I am currently focusing on learning backend
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
 <br />
