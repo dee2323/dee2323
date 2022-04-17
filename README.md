@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 🌱 I am currently focusing on learning backend
 - 😄Creatively and willingness to learn new skills.
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
-- 
 <br />
 <br/>
 
