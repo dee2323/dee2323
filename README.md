@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - 💻 I am a Computer System Engineer student at PTUK
 - 😎 Very good in Software Programming : C++, OOP, Data Structure, Algorithms, Python, Design Patterns.
 - 🌱 I am currently focusing on learning backend
+- 😄Creatively and willingness to learn new skills.
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
+- 
 <br />
 <br/>
 
