@@ -4,6 +4,7 @@
 **dee2323/dee2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img align="right" width="400" alt="" src="https://github.com/dee2323/dee2323/blob/main/undraw_hello_re_3evm.svg" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
