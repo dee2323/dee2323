@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 - 👋 I am Deema Saleem
 - 💻 I am a Computer Systems Engineer student at PTUK
-- 😎 Very good in Software Programming : C++, OOP, Data Structure, Algorithms, Python, Design Patterns.
-- 🌱 I am currently focusing on learning backend
-- 😄Creatively and willingness to learn new skills.
+- 😎 I have knowledge atSoftware Programming : C++, OOP,Java, Data Structure, Algorithms
+- 🌱 I am currently focusing on learning about Backend
+- 😄Creatively and willingness to learn new skills
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
 <br />
 <br/>
