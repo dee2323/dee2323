@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 <h1>About Me 📌</h1>
 
-- 👋 I am Deema Saleem
-- 💻 I am a Computer Systems Engineer student at PTUK
-- 😎 I have knowledge atSoftware Programming : C++, OOP,Java, Data Structure, Algorithms
-- 🌱 I am currently focusing on learning about Backend
+- 👋 I am Deema Isleem
+- 💻 I am a Computer Systems Engineer
+- 🌱I’m currently learning React in depth with TypeScript, Saga, React Query, React-table, React Design Patterns
 - 😄Creatively and willingness to learn new skills
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
 <br />
